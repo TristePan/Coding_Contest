@@ -14,7 +14,7 @@ int main() {
     fstream fout("output.txt", fstream::out);
     string output;
 
-    for(int i = 0; i < 1000; i++) {
+    for(int i = 0; i < 100; i++) {
         int n = 0;
         string cognome1, cognome2, cognome3;
         fin >> n >> cognome1 >> cognome2 >> cognome3;
