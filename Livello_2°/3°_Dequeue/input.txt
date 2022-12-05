@@ -1,0 +1,100 @@
+char 15 io in if id ir ik ip il ig in if ic im ib ia
+bool 22 i1 i1 i0 i0 i0 i0 i1 i0 i1 i0 i0 i0 i0 i1 i0 i0 i1 i0 i0 i1 i0 i0
+bool 19 i1 i1 i0 i1 i0 i1 i1 i0 i1 i1 i1 i1 i1 i1 i0 i0 i1 i1 i0
+int 18 i11 i1 i8 i11 i20 i20 i10 i17 i2 i3 i6 i15 i14 i9 i7 i19 i11 i7
+double 23 i0.03 i0.08 i1.37 i0.99 i0.49 i0.18 i0.75 i0.81 i1.3 i1.28 i1.97 i0.61 i1.37 i1.95 i0.07 i1.25 i0.66 i0.5 i0.75 i0.65 i0.29 i1.73 i1.56
+char 22 ij id ia ic ik im im ic ik ic ip im ij ih ip in io is ig ic io if
+bool 25 i1 i1 i0 i1 i0 i1 i1 i0 i1 i1 i0 i1 i1 i0 i1 i1 i0 i1 i0 i1 i0 i1 i0 i0 i1
+bool 13 i0 i0 i1 i1 i1 i1 i1 i0 i0 i1 i0 i1 i0
+int 29 i20 i14 i13 i14 i16 i1 i4 i8 i11 i5 i10 i8 i5 i2 i13 i13 i3 i5 i17 i18 i9 i2 i4 i19 i13 i14 i12 i14 i13
+char 21 ii ip ir ig ik im ip ia io ia ii if il ip ib if it ip ip if io
+int 18 i10 i20 i1 i3 i19 i17 i1 i5 i4 i8 i6 i16 i2 i15 i4 i18 i19 i5
+double 17 i1.61 i1.25 i0.6 i0.71 i0.7 i0.21 i0.88 i1.37 i1.12 i0.27 i0.96 i1.46 i0.62 i0.68 i1.38 i1.11 i1.31
+double 28 i1.67 i0.85 i0.56 i0.78 i0.05 i1.57 i0.17 i1.85 i0.4 i0.95 i0.53 i1.71 i0.92 i1.06 i0.26 i1.76 i0.56 i1.53 i1.67 i1.82 i0.3 i0.34 i1.4 i1.59 i0.23 i0.34 i0.67 i1.1
+double 29 i0.07 i0.58 i1.09 i1.56 i1.68 i0.95 i1.36 i1.24 i0.45 i0.05 i0.98 i0.73 i0.67 i1.88 i0.8 i0.13 i1.37 i0.28 i1.63 i1.42 i1.4 i1.87 i1.12 i1.99 i0.08 i1.06 i0.93 i0.75 i0.53
+double 27 i1.31 i1.26 i1.27 i1.5 i0.48 i1.37 i0.85 i1.75 i0.06 i0.01 i0.46 i0.28 i0.34 i1.91 i1.74 i0.12 i0.58 i0.79 i1.07 i0.49 i1.57 i1.94 i1.31 i0.33 i0.6 i1.13 i1.81
+char 25 ih ii ig iq ib ir ia ir it ii il io il ij id ig iq ic ij it ia ia ir ii il
+char 12 ij ig ic im in ie ia it ia if is in
+double 28 i0.18 i1.34 i0.05 i1.36 i1.47 i0.21 i0.27 i0.25 i1.05 i1.69 i0.74 i1.51 i1.09 i1.19 i0.79 i1.49 i1.48 i1.91 i0.13 i0.71 i1.26 i1.61 i1.87 i0.08 i1.09 i0.89 i0.9 i0.21
+int 16 i19 i5 i6 i1 i10 i1 i3 i8 i17 i14 i15 i17 i19 i18 i1 i19
+int 27 i20 i2 i1 i1 i1 i13 i7 i9 i9 i12 i14 i9 i11 i9 i11 i19 i2 i19 i14 i5 i12 i2 i13 i9 i6 i13 i9
+char 15 io ip im ib ik ii is il ij ir il is iq ir ig
+double 25 i1.94 i1.93 i0.36 i0.35 i0.79 i1.08 i0.93 i0.51 i1.48 i1.17 i0.14 i1.89 i1.96 i1.48 i0.53 i1.42 i0.45 i1.54 i1.84 i0.3 i0.14 i1.4 i0.5 i1.4 i1.09
+char 15 ii io is it if io ie ig ij is id ic ih iq is
+int 20 i19 i14 i11 i6 i8 i3 i11 i19 i15 i16 i2 i1 i20 i19 i6 i10 i16 i18 i1 i18
+char 13 ij ia it in ig ih id ik it im ir if il
+bool 14 i0 i1 i1 i1 i1 i0 i0 i1 i0 i1 i1 i1 i1 i1
+bool 12 i1 i1 i1 i1 i1 i1 i1 i0 i0 i1 i0 i1
+int 11 i8 i15 i6 i4 i9 i18 i18 i5 i8 i4 i7
+char 19 iq io ib ih ih id ia ii ik ip if id ia in io ir ik ig im
+double 21 i0.32 i0.28 i1.53 i1.22 i1.92 i0.5 i0.86 i0.19 i0.63 i0.49 i0.89 i1.89 i0.54 i0.22 i0.86 i0.28 i1.29 i0.96 i1.31 i1.03 i0.63
+char 21 in if iq is il ig ib ia ip il ij ij ii ij im id im ip ir ib ic
+double 20 i0.15 i0.85 i0.81 i0.7 i1.32 i0.14 i1.84 i1.06 i0.35 i0.77 i1.63 i0.63 i0.15 i1.89 i1.84 i1.28 i1.87 i0.76 i0.15 i0.71
+bool 19 i0 i1 i0 i0 i1 i0 i0 i1 i0 i1 i1 i1 i1 i0 i0 i0 i0 i0 i1
+int 29 i16 i9 i9 i19 i10 i14 i20 i15 i7 i12 i13 i2 i12 i12 i9 i20 i16 i8 i11 i12 i7 i7 i5 i15 i20 i13 i18 i4 i4
+char 17 io ic ie ip il ia ir il ie iq ih im ij il ip ih ik
+double 15 i0.52 i0.94 i1.24 i0.78 i1.43 i1.48 i1.7 i0.74 i1.86 i1.96 i0.09 i1.91 i1.05 i0.39 i0.61
+double 10 i1.91 i1.25 i0.41 i1.84 i1.25 i0.32 i0.11 i1.99 i0.01 i0.5
+bool 12 i0 i1 i0 i0 i1 i1 i0 i1 i1 i0 i0 i1
+int 16 i14 i11 i7 i11 i18 i4 i3 i8 i20 i9 i2 i14 i1 i9 i18 i16
+bool 21 i1 i1 i0 i0 i1 i1 i0 i0 i1 i0 i1 i0 i1 i1 i0 i0 i0 i0 i1 i0 i1
+char 10 ii ia il ih it ir is im io ih
+int 12 i10 i15 i8 i14 i12 i3 i10 i8 i12 i4 i18 i5
+double 24 i0.2 i0.84 i1.66 i0.03 i0.54 i1.81 i0.79 i0.69 i1.51 i0.94 i1.37 i1.32 i0.92 i0.34 i1.52 i0.86 i1.93 i1.51 i0.84 i1.28 i0.98 i1.26 i1.44 i1.11
+char 16 ii io ig ii ik ia ic iq ik ij ip im is ic ii il
+double 20 i1.84 i1.71 i1.37 i0.28 i1.74 i0.37 i0.17 i1.47 i1.51 i0.8 i0.72 i0.94 i1.83 i1.29 i0.43 i1.13 i1.5 i0.79 i1.16 i1.76
+double 23 i1.89 i0.1 i0.73 i1.48 i0.57 i0.58 i1.56 i1.73 i0.93 i0.46 i0.67 i0.48 i0.58 i0.8 i0.88 i0.49 i0.22 i1.53 i0.26 i0.32 i0.33 i0.74 i1.66
+bool 11 i1 i0 i0 i1 i0 i0 i1 i1 i1 i0 i1
+int 28 i15 i18 i18 i18 i4 i9 i13 i15 i14 i7 i8 i8 i2 i14 i8 i16 i13 i3 i18 i7 i15 i13 i20 i19 i7 i15 i6 i12
+bool 10 i1 i0 i0 i1 i1 i1 i0 i0 i1 i0
+double 19 i1.59 i1.39 i1.91 i0.7 i1.38 i0.23 i0.23 i0.61 i1.96 i0.14 i0.01 i0.36 i0.73 i0.12 i0.6 i1.01 i1.09 i1.62 i1.06
+double 26 i0.13 i1.45 i1 i1.84 i1.98 i0.57 i0.82 i0.97 i1.72 i1.4 i0.16 i0.35 i1.99 i1.08 i0.11 i0.82 i0.66 i1.37 i1.45 i1.43 i0.69 i1.82 i0.07 i1.15 i0.61 i0.58
+char 15 it ic dequeue iq ia dequeue ic in dequeue ih ip ib ih dequeue ie
+char 12 it is ir dequeue ie dequeue ic id ig im ig if
+char 12 ir ic ih ig im dequeue im in iq ib id im
+int 21 i14 i13 i1 i7 i6 dequeue i4 i7 i11 i1 dequeue dequeue i11 i15 i17 i11 i12 dequeue i9 i10 i7
+int 22 i19 i7 i16 i20 dequeue i9 dequeue dequeue i20 dequeue i9 i11 dequeue i2 i5 i10 i2 i10 dequeue i18 i19 i20
+int 13 i4 dequeue i7 i18 i1 i15 i16 i14 i6 dequeue i3 i12 i9
+int 29 i12 i8 i20 i16 i5 i5 i10 i13 dequeue i20 i1 dequeue i10 i20 dequeue i3 i20 dequeue dequeue dequeue i4 dequeue i11 dequeue i16 i7 i4 i5 i5
+char 21 im ia ik in ic id dequeue if id dequeue ib io ic it ie dequeue ij if in dequeue dequeue
+int 27 i11 i6 i5 i11 i4 dequeue i16 dequeue i11 dequeue dequeue i11 i5 i18 dequeue i16 i5 i11 dequeue i1 i12 dequeue dequeue i2 i5 i11 dequeue
+char 19 ii ii ir ic ii dequeue ip dequeue ir ig dequeue ip ig dequeue id dequeue ih ic ic
+char 22 io dequeue ij id ik ia dequeue ir in ib it in dequeue iq ic ia ii ic it ir im it
+double 27 i0.52 dequeue i1.79 i1.68 i0.62 i0.93 i0.36 i1.86 i1.59 dequeue i1.54 i1.08 i1.91 i0.07 dequeue i0.22 i1.55 dequeue i0.81 i0.9 dequeue dequeue i1.22 i0.3 i1.22 i0.42 dequeue
+char 26 is ir ig io ib im dequeue ir dequeue im ia io ia dequeue ii il dequeue dequeue ib dequeue ih im il if dequeue im
+bool 22 i1 i1 i1 dequeue i1 i0 i0 i1 i0 dequeue i0 i0 dequeue dequeue i1 i0 i0 i0 i1 dequeue i1 i1
+int 24 i3 dequeue i19 i16 i13 dequeue i17 i1 i18 i17 dequeue dequeue i19 i6 i10 i18 i18 dequeue i10 i12 dequeue i16 i20 i10
+int 28 i13 dequeue i17 i2 dequeue i20 i5 i7 i1 i17 i9 i13 i3 i15 i11 i15 i3 i3 i5 i9 i17 i5 i3 i5 i10 i8 dequeue i4
+int 17 i5 i10 dequeue i5 i1 i7 i1 i15 i1 dequeue i15 i18 i3 dequeue i4 i4 dequeue
+double 23 i1.07 i0.27 i0.21 dequeue i0.56 i1.76 i1.77 i1.1 i1.26 dequeue i1.18 i1.04 i0.56 dequeue i0.66 i1.21 dequeue i0.97 dequeue i0.46 i1.91 i0.49 i1.24
+char 29 ij dequeue is ir dequeue dequeue io ii ir ih ij ih is dequeue im im ia is ij iq il ir in im dequeue dequeue ia dequeue dequeue
+double 21 i0.47 i1.1 i0.01 i1.37 dequeue i0.8 dequeue dequeue dequeue i1.56 i1.96 dequeue i1.86 i1.36 i0.2 dequeue i1.63 i0.33 i1.7 i0.75 i0.14
+double 28 i1.01 i1.87 i0.37 i0.91 i1.72 dequeue i1.95 dequeue i0.99 i1.39 dequeue i1.4 i0.08 i0.14 i0.02 i0.09 i0.59 i0.85 i0.06 dequeue i1.15 i0.14 i0.17 i1.53 i0.15 i1.95 dequeue i0.93
+int 21 i5 i3 i20 i2 i15 dequeue dequeue i19 i3 i15 i3 i4 dequeue dequeue i6 dequeue dequeue i11 i12 i8 i18
+char 16 il dequeue is if dequeue im ib ic ib is ij ip is ij it ih
+bool 14 i1 i1 i0 i1 i0 i0 dequeue i0 i0 dequeue dequeue dequeue i0 i0
+bool 20 i0 i0 i1 i1 i0 dequeue i0 i0 i1 dequeue i0 i1 i1 i1 i1 i0 i0 dequeue i1 i0
+double 28 i0.72 dequeue i0.23 i1.28 i1.65 i1.65 i1.73 i0.19 dequeue i1.95 i1.55 i1.24 i1.13 i1.93 i0.56 dequeue i1.07 i0.8 i1.31 i0.74 i1.34 i1.75 dequeue i1.56 dequeue i0.57 i0.02 i1.48
+char 25 is if dequeue ic im dequeue ib ip ia ib ib if dequeue ia ic dequeue ip dequeue in if ic im if ig if
+char 12 ij id ib dequeue im ii ic ic in dequeue ig ir
+double 25 i1.77 i0.47 dequeue i1.79 i1.25 dequeue i1.27 i1.84 i1.63 i0.74 i0.44 dequeue i1.27 i0.88 dequeue dequeue i1.37 dequeue dequeue i1.46 i0.18 dequeue i1.54 i0.74 i0.03
+double 21 i0.24 i0.03 dequeue i0.48 i0.8 i0.06 dequeue i0.2 i0.21 i0.87 i0.31 i1.25 i0.67 i0.13 dequeue i1.79 dequeue i1.72 i0.31 i0.28 dequeue
+bool 14 i0 i0 i1 i1 dequeue i1 i1 i0 i1 i1 i0 i1 dequeue i0
+bool 10 i0 i1 i0 i1 i0 i1 dequeue i0 i1 i1
+int 27 i1 i14 i15 i17 i20 i17 i7 dequeue i18 i2 i10 i1 i6 i18 i20 i19 i16 dequeue i3 i11 i2 dequeue i8 dequeue i18 i8 i14
+char 27 il ib ij ie ip dequeue ij ij dequeue ii if ic if is io ie ib dequeue dequeue ii dequeue dequeue dequeue if ib il dequeue
+char 25 io dequeue ie ic ir il ic il it ie in if ir id dequeue ie if dequeue ik dequeue ii id is id is
+bool 17 i0 dequeue i1 i1 i1 i0 i1 i1 i0 dequeue i0 i1 i0 i0 i1 i1 dequeue
+bool 20 i1 dequeue i0 i1 i1 i1 i1 i1 i1 i1 dequeue i1 i1 dequeue i1 i1 i1 dequeue dequeue i1
+int 20 i9 i8 i10 i19 i10 i1 i15 i14 i10 i4 i17 i12 dequeue i4 i5 dequeue i18 dequeue dequeue dequeue
+int 26 i3 i17 i6 i13 i10 dequeue i13 dequeue i2 i15 i18 dequeue i11 dequeue i18 i3 i19 i4 i11 i19 i15 i13 i10 dequeue i3 dequeue
+bool 17 i1 i1 i1 i0 i1 dequeue i1 i1 i0 i1 i1 i0 i1 i1 i0 i0 i0
+double 12 i1.77 i1.24 i0.74 dequeue i1.14 i1.24 i1.51 i1.04 i0.83 i1.91 i0.96 i1.89
+int 20 i8 i16 i11 i15 i13 i9 i6 i13 i18 i13 i13 i1 i8 i4 dequeue dequeue i11 i7 i18 i19
+bool 16 i0 dequeue i0 i0 i0 dequeue i0 dequeue i0 i0 i0 i0 i1 i0 i0 i1
+char 22 if ii dequeue iq ia dequeue ii io il ih dequeue dequeue ip in ii ir im id ib io ir ih
+int 29 i18 i9 dequeue i16 i8 i11 i8 i19 i11 i6 i12 i15 i11 i18 i15 i13 dequeue i13 i20 i17 i15 i9 i19 dequeue i11 i4 i12 i10 i6
+double 21 i1.45 i0.69 dequeue i1.93 i1.86 i1.59 i0.55 i1.61 i0.19 i0.25 i0.2 i1.93 i1.52 i0.16 i1.54 dequeue dequeue dequeue dequeue i1.28 i0.26
+char 18 is io if dequeue it id ic dequeue ir dequeue ic ih dequeue dequeue dequeue is iq io
+double 17 i1.43 i1.18 i0.55 i0.87 i1.41 dequeue i1.81 i1.03 i0.43 i0.63 i1.09 dequeue i0.95 i1.23 i0.75 i0.58 i1.11
+char 18 ir iq im im ib in ih it dequeue dequeue ie ii it ik ip in ik ie
